@@ -1,6 +1,5 @@
-import './App.css';
+import Footer from './components/Footer/Footer';
 import HomePage from './components/Home/HomePage';
-import Footer from './components/Navbar/Footer';
 import Header from './components/Navbar/Header';
 
 
